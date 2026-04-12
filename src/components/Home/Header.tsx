@@ -13,7 +13,7 @@ export default function Header() {
   style={{ width: "70px", height: "auto" }} 
 />
         <h2 style={{ marginLeft: "10px", color: "#ff6a00" }}>
-          ScienceDirect
+          DirectScience
         </h2>
       </div>
 
