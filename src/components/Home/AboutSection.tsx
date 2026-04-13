@@ -15,7 +15,7 @@ The DC Universe connects many heroes and stories together.
       </div>
 
       <div className="card" style={{ flex: 1 }}>
-        <h3>Publishing Charges</h3>
+        <h3>Article Publishing Charges</h3>
         <p>Article Publishing Charge: $1500</p>
       </div>
 
